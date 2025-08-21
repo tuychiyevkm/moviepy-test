@@ -7,7 +7,7 @@ FPS = 30
 BITRATE = "4000k"
 
 # Matn
-HEADLINE = "Qalbimiz va hayotimiz ijtimoiy tarmoqqa bog‘langan."
+HEADLINE = "Qalbimiz va hayotimiz ijtimoiy tarmoqqa bog'langan."
 SUBTEXT = None  # ixtiyoriy
 
 # Shrift yo‘li
@@ -20,7 +20,7 @@ BG_VIDEO_PATH = None
 
 # Stil
 HEADLINE_SIZE = 68
-SUBTEXT_SIZE = 42
+SUBTEXT_SIZE = 72
 TEXT_COLOR = (250, 250, 252)
 TEXT_ALIGN = "center"
 SAFE_MARGIN = 80
